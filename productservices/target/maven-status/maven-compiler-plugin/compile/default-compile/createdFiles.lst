@@ -1,0 +1,5 @@
+com\sonali\product\dao\ProductDAO.class
+com\sonali\product\bo\ProductBO.class
+com\sonali\product\bo\ProductBOImpl.class
+com\sonali\product\dao\ProductDAOImpl.class
+com\sonali\product\dto\Product.class
