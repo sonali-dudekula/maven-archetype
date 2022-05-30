@@ -1,2 +1,2 @@
 # maven-archetype-quickstart
-Contains simple standalone java projects that I have created.
+Contains simple maven projects that I have created.
